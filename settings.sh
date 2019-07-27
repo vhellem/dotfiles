@@ -31,7 +31,7 @@ OPTIONAL_BREW_PACKAGES="bazel gnupg nmap nvm pyenv wget yarn"
 
 # BREW (ESSENTIAL)
 ESSENTIAL_BREW_PACKAGES="coreutils diff-so-fancy fish git grep mongodb node
-  postgresql python python@2 openssh screen vim"
+  postgresql python python@2 openssh screen"
 
 # FISH (installed with fisherman)
 FISHERMAN_PACKAGES="z jbonjean/re-search"
