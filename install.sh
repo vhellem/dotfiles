@@ -77,7 +77,6 @@ ask_for_sudo
 ./setup/prerequisites.sh
 ./setup/fish.sh
 ./setup/bash.sh
-./setup/vim.sh
 ./setup/git.sh
 ./setup/node.sh
 macos_tweaks
