@@ -1,15 +1,15 @@
 # GIT
-GIT_NAME="Håvard Falk"
-GIT_EMAIL="hfalk4@gmail.com"
+GIT_NAME="Vegard Hellem"
+GIT_EMAIL="vhellem@gmail.com"
 
 # APPLICATIONS
 # The applications below are regular apps such as Chrome and Spotify.
 # Please make sure that you remove all the programs you don't want to install on your computer
 # P.S. The installer script won't install the applications unless you tell it to. It's your call  :)
-BREW_CASKS="alfred android-studio appcleaner atom google-backup-and-sync basictex
+BREW_CASKS="alfred appcleaner atom google-backup-and-sync
   calibre flux google-chrome intellij-idea iterm2 java jetbrains-toolbox postman
-  pycharm r-app skype skype-for-business slack spectacle spotify torbrowser
-  transmission veracrypt vlc"
+  pycharm skype skype-for-business slack spectacle spotify
+  transmission veracrypt vlc visual-studio-code"
 
 # NODE
 NPM_PACKAGES="n ncu"
